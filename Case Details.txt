@@ -1,0 +1,11 @@
+Case Details:
+
+Tenant Name: Trailhead Help
+OrgId: Trailhead_Help
+Subject: Exam not written due to document issues
+Description: User couldn't write the exam due to document issues
+Here is your Case Number: 471305177
+You can track the status or make updates here: View Case
+
+
+Let me know if there's anything else I can assist you with!
